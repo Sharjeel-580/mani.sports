@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M180,58 a112,112 0 1,0 0.1,0 M108,92 q42,88 0,176 M252,92 q-42,88 0,176" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#b3202a"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">LEATHER BALL</text>
+</svg>

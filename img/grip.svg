@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M138,58 h64 v300 h-64 Z M222,58 h64 v300 h-64 Z M138,120 h64 M222,120 h64 M138,190 h64 M222,190 h64 M138,260 h64 M222,260 h64" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#22242a"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">BAT GRIP</text>
+</svg>

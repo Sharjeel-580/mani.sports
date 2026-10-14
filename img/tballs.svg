@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M118,138 a56,56 0 1,0 0.1,0 M242,118 a56,56 0 1,0 0.1,0 M180,252 a56,56 0 1,0 0.1,0" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#9db33c"/>
+<path d="M84,104 q34,34 0,68 M208,84 q34,34 0,68 M146,218 q34,34 0,68" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#9db33c" stroke-width="6"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">TENNIS BALLS</text>
+</svg>

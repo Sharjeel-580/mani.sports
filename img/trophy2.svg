@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M132,58 h96 l14,120 q4,44 -62,44 q-66,0 -62,-44 Z M180,222 v36 M134,300 h92 M152,258 h56 v42 h-56 Z M132,92 q-44,2 -40,38 q3,30 44,28 M228,92 q44,2 40,38 q-3,30 -44,28" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#22242a"/>
+<path d="M180,96 l10,22 24,3 -18,16 5,24 -21,-12 -21,12 5,-24 -18,-16 24,-3 Z" fill="#c99300" stroke="none"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">CHAMPION CUP</text>
+</svg>

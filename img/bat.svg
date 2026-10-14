@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M160,40 L200,40 L196,290 L164,290 Z M168,290 L192,290 L190,368 L170,368 Z" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#22242a"/>
+<path d="M166,70 L194,70 M165,110 L195,110" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#c99300" stroke-width="6"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">CRICKET BAT</text>
+</svg>

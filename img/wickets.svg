@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M128,96 v252 M180,96 v252 M232,96 v252 M118,84 h52 M190,84 h52" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#c99300"/>
+<path d="M112,348 h136" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#22242a" stroke-width="6"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">WICKETS / STUMPS</text>
+</svg>

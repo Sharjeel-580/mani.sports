@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#f4f4f2"/>
+<path d="M92,238 a88,88 0 0,1 176,0 Z M92,238 h176 M118,238 v64 M156,238 v64 M194,238 v64 M232,238 v64 M106,282 h148" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#22242a"/>
+<path d="M92,206 h176" fill="none" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke="#c99300" stroke-width="7"/>
+<text x="180" y="412" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3a3a3e" text-anchor="middle" letter-spacing="2">CRICKET HELMET</text>
+</svg>
